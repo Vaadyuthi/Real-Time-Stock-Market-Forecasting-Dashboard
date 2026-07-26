@@ -14,7 +14,7 @@ An interactive web dashboard built with **Streamlit**, **yFinance**, **Plotly**,
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Frontend & UI:** [Streamlit](https://streamlit.io/)
 * **Data Retrieval:** [yfinance](https://pypi.org/project/yfinance/)
